@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(216, 185, 247);
+}
+.container{
+    /* border: 5px solid yellow; */
+    display:flex;
+    justify-content:center;
+   /* width:50%; */
+   
+}
+#buttons{
+    background-color: rgb(58, 31, 211);
+    border-radius: 10px;
+    /* width:300px; */
+    height:70px;
+    margin:0 160px;
+    font-size: 1.2rem;
+    border:0;
+    color:white;
+    
+}
+#buttons:hover{
+    background-color: rgba(30, 68, 238, 0.467);
+}
+ h2{
+    text-align: center;
+    font-size: 2rem;
+    text-decoration:underline;
+}
+p{
+    text-align: center;
+} */
